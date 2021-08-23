@@ -1,0 +1,106 @@
+/**
+* @name Retro Future
+* @version 1.0
+* @description A theme based on Beastmodplayer's starting soon panel on twitch based on ClearVision
+* @author Beastmodplayer
+* @invite dHaSxn3
+* @Source https://github.com/ClearVision/ClearVision-v6
+* @website https://betterdiscord.app/theme/ClearVision
+*/
+@import url("https://clearvision.gitlab.io/v6/main.css");
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--main-color: #ED11E9FF;
+--hover-color: #02B1F2FF;
+--success-color: #1e63b3;
+--danger-color: #982929;
+--url-color: #2780e6;
+--online-color: #43b581;
+--idle-color: #faa61a;
+--dnd-color: #982929;
+--streamig-color: #593695;
+--offline-color: #808080;
+--main-font: 'Whitney';
+--code-font: 'Consolas';
+--text-normal: #dcdddeff;
+--text-muted: #72767dff;
+--channels-width: 220px;
+--members-width: 240px;
+--background-shading: 100%;
+--background-overlay: #00000099;
+--background-image: url('https://i.imgur.com/iiD929o.gif');
+--background-size: cover;
+--background-position: center;
+--background-repeat: no-repeat;
+--background-attachment: fixed;
+--background-brightness: 100%;
+--background-constrast: 100%;
+--background-saturation: 100%;
+--background-invert: 0%;
+--background-grayscale: 0%;
+--background-sepia: 0%;
+--background-blur: 2px;
+--home-icon: url('https://i.imgur.com/Yqzo92p.jpg');
+--home-position: center;
+--home-size: 60px;
+--background-overlay: #00000099;
+--backdrop-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--backdrop-image: center;
+--backdrop-size: cover;
+--backdrop-repeat: repeat;
+--backdrop-attachment: fixed;
+--backdrop-brightness: 100%;
+--backdrop-constrast: 100%;
+--backdrop-saturation: 100%;
+--backdrop-invert: 0%;
+--backdrop-grayscale: 0%;
+--backdrop-sepia: 0%;
+--backdrop-blur: 0px;
+--user-popout-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--user-popout-image: center;
+--user-popout-size: cover;
+--user-popout-repeat: repeat;
+--user-popout-attachment: fixed;
+--user-popout-brightness: 100%;
+--user-popout-constrast: 100%;
+--user-popout-saturation: 100%;
+--user-popout-invert: 0%;
+--user-popout-grayscale: 0%;
+--user-popout-sepia: 0%;
+--user-popout-blur: 0px;
+--user-popout-overlay: #000000a6;
+--user-modal-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--user-modal-image: center;
+--user-modal-size: cover;
+--user-modal-repeat: repeat;
+--user-modal-attachment: fixed;
+--user-modal-brightness: 100%;
+--user-modal-constrast: 100%;
+--user-modal-saturation: 100%;
+--user-modal-invert: 0%;
+--user-modal-grayscale: 0%;
+--user-modal-sepia: 0%;
+--user-modal-blur: 0px;
+--bd-blue: #2780e6;
+--bd-blue-hover: #1e63b3;
+--bd-blue-active: #1e63b3;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+--columns: 3;
+--guildsize: 45;
+--guildgap: 3;
+--aligndms: 1;
+}
