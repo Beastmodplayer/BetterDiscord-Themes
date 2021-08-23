@@ -1,2 +1,2 @@
-# BetterDiscord-Themes
+# BetterDiscordThemes
 All My BD Themes
